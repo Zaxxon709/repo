@@ -23,7 +23,7 @@
 ### Instructions for installing this repository without a source:
 
 <ul>
-    <li>Download either Leia repository <a href="repository.709-leia-1.1.zip?file=path/<?=$row['repository.709-leia-1.1.zip']?>">repository.709-leia-1.1.zip</a> or the Matrix repository <a href="repository.709-matrix-1.0.zip?file=path/<?=$row['repository.709-matrix-1.0.zip']?>">repository.709-matrix-1.0.zip</a></li>
+    <li>Download either the Leia repository <a href="repository.709-leia-1.1.zip?file=path/<?=$row['repository.709-leia-1.1.zip']?>">repository.709-leia-1.1.zip</a> or the Matrix repository <a href="repository.709-matrix-1.0.zip?file=path/<?=$row['repository.709-matrix-1.0.zip']?>">repository.709-matrix-1.0.zip</a></li>
     <li>Open Kodi Settings and go to Add-Ons. Then select "Install from zip file"</li>
     <li>Navigate to where you saved the above repository zip file and select to install</li>
 </ul>
