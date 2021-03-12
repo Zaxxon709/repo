@@ -15,7 +15,7 @@
 
 <ul>
     <li>Go to Kodi Add-Ons to open the Addon Browser, then select "Install from zip file"</li>
-    <li>From the available list of sources, select "709Repo", and install the appropriate repo "repository.709-leia-1.1.zip"</li> "repository.709-matrix-1.0.zip"</li>
+    <li>From the available list of sources, select "709Repo", and install the appropriate repo "repository.709-leia-1.1.zip" or "repository.709-matrix-1.0.zip"</li>
 </ul>
 
 
