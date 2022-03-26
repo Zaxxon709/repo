@@ -28,7 +28,7 @@
 
 <ul>
     <li>Open Kodi Settings and go to Add-Ons. Then select "Install from zip file"</li>
-    <li>From the available list of sources, select "709Repo", and install the Matrix repository "repository.709-matrix-1.1.zip"</li>
+    <li>From the available list of sources, select "709Repo", and install the Matrix repository "repository.709-1.1.zip"</li>
 </ul>
 
 
