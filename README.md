@@ -9,11 +9,9 @@
     <li>Navigate to where you saved the above repository zip file and select to install</li>
 </ul>
 
-### 709 Matrix Repository
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/matrix/main/repository.709-1.2.zip)
 
 ### 709 Nexus Repository
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/matrix/main/repository.709-1.0.zip)
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)
 
 
 ### Instructions for adding this repo's source:
