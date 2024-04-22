@@ -10,8 +10,8 @@
 </ul>
 
 
-### 709 Nexus Repository
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.2.zip)
+### 709 Repository
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/zaxxon/main/repository.709-1.0.2.zip)
 
 
 ### Instructions for adding this repo's source:
